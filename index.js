@@ -32,4 +32,3 @@ const vote = async () => {
 };
 vote();
 const inter = setInterval(vote, 31 * 60 * 1000);
-tInterval(vote, 31 * 60 * 1000);
