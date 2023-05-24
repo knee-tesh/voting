@@ -1,0 +1,16 @@
+{
+  "name": "voting",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "to vote",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nitesh tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.3.0"
+  }
+}
